@@ -1,36 +1,36 @@
 <p align="center">
- <img width="180px" src="https://cdn.russellxz.click/494efd47.jpeg" align="center"/>
- <h2 align="center">𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓</h2>
+ <img width="180px" src="https://cdn.russellxz.click/da5feeab.png" align="center"/>
+ <h2 align="center">𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪</h2>
  <p align="center">Un bot para la plataforma de WhatsApp automatizado, basado especialmente en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/commits">
+    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓?style=for-the-badge" />
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/fork">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demostración</a>
   ·
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues/new?assignees=&labels=Bug">Reportar un error</a>
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/issues/new?assignees=&labels=Bug">Reportar un error</a>
   ·
-  <a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues/new?assignees=&labels=Enhancement">Solicitar una característica</a>
+  <a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/issues/new?assignees=&labels=Enhancement">Solicitar una característica</a>
 </p>
 
 <!-- <p align="center">
@@ -110,16 +110,16 @@
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓&repository=https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓)
-[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://brunosobrino.github.io/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/)
-[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://brunosobrino.github.io/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/)
-[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://brunosobrino.github.io/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/)
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪&repository=https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪)
+[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪)
+[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://brunosobrino.github.io/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/)
+[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://brunosobrino.github.io/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/)
+[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://brunosobrino.github.io/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/)
 
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓) -->
+<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪) -->
 
 # Soporte y Comunidad
 
@@ -142,8 +142,8 @@ En este espacio podrás encontrar diversas **comunidades de asistencia** donde p
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓" /> 
+<a href="https://github.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪" /> 
 </a>
 
 ## Agradecimientos
@@ -155,5 +155,5 @@ Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. 
 ## Desarollador Principal
 
 <a href="https://github.com/BrunoSobrino">
-  <img src="https://cdn.russellxz.click/494efd47.jpeg" width="180px"/>
+  <img src="https://cdn.russellxz.click/da5feeab.png" width="180px"/>
 </a>

@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓
+    name: 𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪
     env: docker
     region: Frankfurt
     plan: free

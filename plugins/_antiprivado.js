@@ -1,4 +1,4 @@
-// 𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓@BrunoSobrino - _antiprivado.js
+// 𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪@BrunoSobrino - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

@@ -27,7 +27,7 @@ export async function before(m, { conn, participants }) {
 
     let groupName = "el grupo";
     let groupMetadata = groupMetadataCache.get(m.chat);
-    let pp = 'https://raw.githubusercontent.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/master/src/avatar_contact.png';
+    let pp = 'https://raw.githubusercontent.com/BrunoSobrino/𝘽𝙤𝙩-𝙂𝙖𝙩𝙡𝙪/master/src/avatar_contact.png';
     let img = null;
 
     if (!groupMetadata) {
